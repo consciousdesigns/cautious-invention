@@ -1,7 +1,7 @@
 #!/bin/bash
 # Setup script for Conscious-Designs3
 
-echo "Setting up my development environment..."
+echo "Setting up development environment..."
 
 # Install Python
 sudo apt-get update
