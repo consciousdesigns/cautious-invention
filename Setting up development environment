@@ -1,0 +1,13 @@
+#!/bin/bash
+# Setup script for Conscious-Designs3
+
+echo "Setting up my development environment..."
+
+# Install Python
+sudo apt-get update
+sudo apt-get install -y python3 python3-pip
+
+# Install MySQL Server
+sudo apt-get install -y mysql-server
+
+echo "Setup complete!"
